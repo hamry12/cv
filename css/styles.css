@@ -1,0 +1,181 @@
+/***************************Tag Selector*******************/
+body {
+  color: #40514e;
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+h1 {
+  font-size: 4rem;
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  color: #66bfbf;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  color: #66bfbf;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #11999e;
+}
+
+p {
+  line-height: 2;
+}
+
+a {
+  color: #11999e;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 5px;
+  width: 5%;
+  border-color: #eaf6f6;
+
+}
+
+/***************************Class Selector*******************/
+.top-container {
+  background-color: #e4f9f5;
+  position: relative;
+  padding-top: 100px;
+}
+
+.middle-container {
+
+}
+
+.bottom-container {
+  position: relative;
+  padding-top: 100px;
+  background-color: #66BFBF;
+}
+
+.footer-link-img {
+  width: 5%;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 10%;
+  top: 5%;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 10%;
+  bottom: 40%;
+}
+
+.profile {
+  width: 50%;
+  margin: 100px auto 10px auto;
+}
+
+.profilePic {
+  height: 200px;
+  width: 200px;
+  border-radius: 100%;
+}
+
+.mySkills {
+  height: 200px;
+  width: 200px;
+  border-radius: 100%;
+}
+
+.getInTouch {
+  height: 150px;
+  width: 150px;
+  border-radius: 100%;
+}
+
+.contact-me {
+  margin: 100px auto 10px auto;
+}
+
+.intro{
+  width: 50%;
+  margin: 0 auto 0 auto;
+  text-align: left;
+}
+.skills {}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 10px auto;
+}
+
+.icon {
+  height: 100px;
+  width: 100px;
+}
+
+.skillManage {
+  display: inline-block;
+  padding: 0 10% 0 10%;
+}
+
+.Education {
+  margin: 100px auto 10px auto;
+}
+
+.university {
+  width: 20%;
+  padding: 0 10% 0 10%;
+  margin-right: 30px;
+  float: left;
+}
+
+.school {
+  width: 20%;
+  padding: 0 10% 0 10%;
+  margin-right: 30px;
+  float: left;
+}
+
+.edu {
+  height: 200px;
+  width: 200px;
+}
+
+.education-details {
+  width: 50%;
+  margin: 5% auto 5% auto;
+  text-align: left;
+}
+
+.btn {
+  background: #3498db;
+  background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
+  background-image: -moz-linear-gradient(top, #3498db, #2980b9);
+  background-image: -ms-linear-gradient(top, #3498db, #2980b9);
+  background-image: -o-linear-gradient(top, #3498db, #2980b9);
+  background-image: linear-gradient(to bottom, #3498db, #2980b9);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+/***************************Id Selector*******************/
+#startLine {
+  font-family: 'Montez', cursive;
+  font-size: 2rem;
+  color: #66bfbf;
+  font-weight: normal;
+}
+
+#copyrights {
+  color: #eaf6f6;
+}
