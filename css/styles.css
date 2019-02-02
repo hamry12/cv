@@ -39,6 +39,9 @@ hr {
   border-color: #eaf6f6;
 
 }
+li{
+  line-height: 2;
+}
 
 /***************************Class Selector*******************/
 .top-container {
@@ -167,6 +170,17 @@ hr {
   padding: 10px 20px 10px 20px;
   text-decoration: none;
 }
+
+.work-experience{
+  margin: 100px auto 10px auto;
+}
+
+.work-details{
+  text-align: left;
+  width: 50%;
+  margin: auto;
+}
+
 
 /***************************Id Selector*******************/
 #startLine {
